@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TsTomova
 - 👀 I’m interested in Data analytics for Conservation and Biodiversity
-- 🌱 I’m currently learning R, Pyhton and GIS
+- 🌱 I’m currently working with R, Pyhton and spatial data
 - 💞️ I’m looking to collaborate on projects related to the environment and biodiversity conservation
 - 📫 How to reach me here.
 
